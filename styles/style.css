@@ -158,6 +158,7 @@
 
 .card-link {
   height: 100%;
+  text-decoration: none;
 }
 
 .card {
@@ -192,7 +193,7 @@
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
-  text-decoration-line: underline;
+  text-decoration: underline;
   text-transform: uppercase;
 }
 
